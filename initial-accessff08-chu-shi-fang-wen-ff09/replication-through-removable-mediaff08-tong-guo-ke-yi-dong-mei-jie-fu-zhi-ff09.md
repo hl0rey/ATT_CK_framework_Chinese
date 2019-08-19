@@ -35,9 +35,10 @@
 1. [Shevchenko, S.. \(2008, November 30\). Agent.btz - A Threat That Hit Pentagon. Retrieved April 8, 2016.](http://blog.threatexpert.com/2008/11/agentbtz-threat-that-hit-pentagon.html)
 
 2. [Anthe, C. et al. \(2015, October 19\). Microsoft Security Intelligence Report Volume 19. Retrieved December 23, 2015.](http://download.microsoft.com/download/4/4/C/44CDEF0E-7924-4787-A56A-16261691ACE3/Microsoft_Security_Intelligence_Report_Volume_19_English.pdf)
+
 3. [FireEye. \(2015\). APT28: A WINDOW INTO RUSSIA’S CYBER ESPIONAGE OPERATIONS?. Retrieved August 19, 2015.](https://www.fireeye.com/content/dam/fireeye-www/global/en/current-threats/pdfs/rpt-apt28.pdf)
 4. [Kaspersky Lab's Global Research and Analysis Team. \(2014, November\). The Darkhotel APT A Story of Unusual Hospitality. Retrieved November 12, 2014.](https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2018/03/08070903/darkhotel_kl_07.11.pdf)
-5. [ClearSky. \(2016, January 7\). Operation DustySky. Retrieved January 8, 2016.](https://www.clearskysec.com/wp-content/uploads/2016/01/Operation%20DustySky_TLP_WHITE.pdf)
+5. [ClearSky. \(2016, January 7\). Operation DustySky. Retrieved January 8, 2016.](https://www.clearskysec.com/wp-content/uploads/2016/01/Operation DustySky_TLP_WHITE.pdf)
 6. [Gostev, A. \(2012, May 28\). The Flame: Questions and Answers. Retrieved March 1, 2017.](https://securelist.com/the-flame-questions-and-answers-51/34344/)
 7. [Reynolds, J.. \(2016, September 14\). H1N1: Technical analysis reveals new capabilities – part 2. Retrieved September 26, 2016.](http://blogs.cisco.com/security/h1n1-technical-analysis-reveals-new-capabilities-part-2)
 8. [Fidelis Cybersecurity. \(2013, June 28\). Fidelis Threat Advisory \#1009: "njRAT" Uncovered. Retrieved June 4, 2019.](https://www.threatminer.org/_reports/2013/fta-1009---njrat-uncovered-1.pdf)
