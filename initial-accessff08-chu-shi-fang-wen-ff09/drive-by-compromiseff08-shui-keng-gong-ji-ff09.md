@@ -21,10 +21,6 @@
 
 ## 例子
 
-|  |
-| :---: |
-
-
 | Name | Description |
 | :--- | :--- |
 | [APT19](https://attack.mitre.org/groups/G0073) | [APT19](https://attack.mitre.org/groups/G0073) performed a watering hole attack on forbes.com in 2014 to compromise targets.[\[2\]](https://researchcenter.paloaltonetworks.com/2016/01/new-attacks-linked-to-c0d0s0-group/) |
