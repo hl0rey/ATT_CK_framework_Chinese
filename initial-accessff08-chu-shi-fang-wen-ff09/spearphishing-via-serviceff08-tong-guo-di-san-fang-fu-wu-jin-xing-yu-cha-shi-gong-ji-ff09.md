@@ -6,3 +6,24 @@
 
 一个常见的例子是首先通过社交媒体与目标建立融洽的关系，然后发送用于攻击的内容到目标在工作电脑上使用的个人账户里，这可能会绕过一些工作账户的安全限制，目标也更有可能打开邮件，毕竟内容是目标所期待的。如果payload没有按预期执行，那么攻击者可以继续和目标交流，并进行故障排除，并且找出不能运行的原因，并使其正常执行。
 
+## 缓解
+
+| Mitigation | Description |
+| :--- | :--- |
+| [Antivirus/Antimalware](https://attack.mitre.org/mitigations/M1049) |  Anti-virus can also automatically quarantine suspicious files. |
+| [Restrict Web Based Content](https://attack.mitre.org/mitigations/M1021) |  Determine if certain social media sites, personal webmail services, or other service that can be used for spearphishing is necessary for business operations and consider blocking access if activity cannot be monitored well or if it poses a significant risk. |
+| [User Training](https://attack.mitre.org/mitigations/M1017) |  Users can be trained to identify social engineering techniques and spearphishing emails with malicious links. |
+
+## 例子
+
+| Name |
+| :--- |
+
+
+|  | Description |
+| :--- | :--- |
+| [Dark Caracal](https://attack.mitre.org/groups/G0070) | [Dark Caracal](https://attack.mitre.org/groups/G0070) spearphished victims via Facebook and Whatsapp.[\[1\]](https://info.lookout.com/rs/051-ESQ-475/images/Lookout_Dark-Caracal_srr_20180118_us_v.1.0.pdf) |
+| [Magic Hound](https://attack.mitre.org/groups/G0059) | [Magic Hound](https://attack.mitre.org/groups/G0059) used various social media channels to spearphish victims.[\[2\]](https://www.secureworks.com/research/the-curious-case-of-mia-ash) |
+
+
+
