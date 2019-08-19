@@ -19,6 +19,10 @@
 | [Restrict Web Based Content](https://attack.mitre.org/mitigations/M1021) | For malicious code served up through ads, adblockers can help prevent that code from executing in the first place.Script blocking extensions can help prevent the execution of JavaScript that may commonly be used during the exploitation process. |
 | [Update Software](https://attack.mitre.org/mitigations/M1051) | Ensure all browsers and plugins kept updated can help prevent the exploit phase of this technique. Use modern browsers with security features turned on.例子 |
 
+## 例子
+
+
+
 ## 检测
 
 防火墙和代理可以检测URL里的可能的已知的恶意域名和参数。他们可以对网站和他们加载的资源做名誉检测，例如这个域名注册多长时间了，这个域名属于谁，如果域名在已知的黑名单上，那么有多少用户曾经连接过它。
