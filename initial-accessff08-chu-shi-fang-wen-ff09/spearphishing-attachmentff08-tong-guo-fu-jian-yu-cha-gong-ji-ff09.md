@@ -1,4 +1,4 @@
-# 通过附件鱼叉攻击
+# 通过附件鱼叉式攻击
 
 通过附件的鱼叉攻击是鱼叉攻击的一种变体。通过附件进行的鱼叉攻击不同于其他类型的鱼叉攻击，它将恶意软件附在邮件附件里。所有的鱼叉攻击都是针对特定人、公司或者团体的电子社会工程学。在这种场景中，攻击者将恶意文件放到邮件的附件中并且靠用户打开该文件来获得代码执行。
 
@@ -75,7 +75,7 @@
 11. [Dunwoody, M., et al. \(2018, November 19\). Not So Cozy: An Uncomfortable Examination of a Suspected APT29 Phishing Campaign. Retrieved November 27, 2018.](https://www.fireeye.com/blog/threat-research/2018/11/not-so-cozy-an-uncomfortable-examination-of-a-suspected-apt29-phishing-campaign.html)
 12. [Foltýn, T. \(2018, March 13\). OceanLotus ships new backdoor using old tricks. Retrieved May 22, 2018.](https://www.welivesecurity.com/2018/03/13/oceanlotus-ships-new-backdoor/)
 13. [Dahan, A. \(2017, May 24\). OPERATION COBALT KITTY: A LARGE-SCALE APT IN ASIA CARRIED OUT BY THE OCEANLOTUS GROUP. Retrieved November 5, 2018.](https://www.cybereason.com/blog/operation-cobalt-kitty-apt)
-14. [Dahan, A. \(2017\). Operation Cobalt Kitty. Retrieved December 27, 2018.](https://cdn2.hubspot.net/hubfs/3354902/Cybereason%20Labs%20Analysis%20Operation%20Cobalt%20Kitty.pdf)
+14. [Dahan, A. \(2017\). Operation Cobalt Kitty. Retrieved December 27, 2018.](https://cdn2.hubspot.net/hubfs/3354902/Cybereason Labs Analysis Operation Cobalt Kitty.pdf)
 15. [Dumont, R. \(2019, March 20\). Fake or Fake: Keeping up with OceanLotus decoys. Retrieved April 1, 2019.](https://www.welivesecurity.com/2019/03/20/fake-or-fake-keeping-up-with-oceanlotus-decoys/)
 16. [FireEye. \(2018, February 20\). APT37 \(Reaper\): The Overlooked North Korean Actor. Retrieved March 1, 2018.](https://www2.fireeye.com/rs/848-DID-242/images/rpt_APT37.pdf)
 17. [Mercer, W., Rascagneres, P. \(2018, January 16\). Korea In The Crosshairs. Retrieved May 21, 2018.](https://blog.talosintelligence.com/2018/01/korea-in-crosshairs.html)
@@ -134,7 +134,7 @@
 70. [Kaspersky Lab's Global Research & Analysis Team. \(2016, July 8\). The Dropping Elephant – aggressive cyber-espionage in the Asian region. Retrieved August 3, 2016.](https://securelist.com/the-dropping-elephant-actor/75328/)
 71. [Lunghi, D., et al. \(2017, December\). Untangling the Patchwork Cyberespionage Group. Retrieved July 10, 2018.](https://documents.trendmicro.com/assets/tech-brief-untangling-the-patchwork-cyberespionage-group.pdf)
 72. [Meltzer, M, et al. \(2018, June 07\). Patchwork APT Group Targets US Think Tanks. Retrieved July 16, 2018.](https://www.volexity.com/blog/2018/06/07/patchwork-apt-group-targets-us-think-tanks/)
-73. [Windows Defender Advanced Threat Hunting Team. \(2016, April 29\). PLATINUM: Targeted attacks in South and Southeast Asia. Retrieved February 15, 2018.](https://download.microsoft.com/download/2/2/5/225BFE3E-E1DE-4F5B-A77B-71200928D209/Platinum%20feature%20article%20-%20Targeted%20attacks%20in%20South%20and%20Southeast%20Asia%20April%202016.pdf)
+73. [Windows Defender Advanced Threat Hunting Team. \(2016, April 29\). PLATINUM: Targeted attacks in South and Southeast Asia. Retrieved February 15, 2018.](https://download.microsoft.com/download/2/2/5/225BFE3E-E1DE-4F5B-A77B-71200928D209/Platinum feature article - Targeted attacks in South and Southeast Asia April 2016.pdf)
 74. [Ash, B., et al. \(2018, June 26\). RANCOR: Targeted Attacks in South East Asia Using PLAINTEE and DDKONG Malware Families. Retrieved July 2, 2018.](https://researchcenter.paloaltonetworks.com/2018/06/unit42-rancor-targeted-attacks-south-east-asia-using-plaintee-ddkong-malware-families/)
 75. [Skulkin, O.. \(2019, January 20\). Silence: Dissecting Malicious CHM Files and Performing Forensic Analysis. Retrieved May 24, 2019.](https://cyberforensicator.com/2019/01/20/silence-dissecting-malicious-chm-files-and-performing-forensic-analysis/)
 76. [GReAT. \(2017, November 1\). Silence – a new Trojan attacking financial organizations. Retrieved May 24, 2019.](https://securelist.com/the-silence/83009/)
