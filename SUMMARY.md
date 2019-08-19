@@ -13,4 +13,5 @@
 * [Replication Through Removable Media（通过可移动媒介复制）](initial-accessff08-chu-shi-fang-wen-ff09/replication-through-removable-mediaff08-tong-guo-ke-yi-dong-mei-jie-fu-zhi-ff09.md)
 * [Spearphishing Attachment（通过附件鱼叉式攻击）](initial-accessff08-chu-shi-fang-wen-ff09/spearphishing-attachmentff08-tong-guo-fu-jian-yu-cha-gong-ji-ff09.md)
 * [Spearphishing Link（通过链接鱼叉式攻击）](initial-accessff08-chu-shi-fang-wen-ff09/spearphishing-linkff08-tong-guo-lian-jie-yu-cha-gong-ji-ff09.md)
+* [Spearphishing via Service（通过第三方服务进行鱼叉式攻击）](initial-accessff08-chu-shi-fang-wen-ff09/spearphishing-via-serviceff08-tong-guo-di-san-fang-fu-wu-jin-xing-yu-cha-shi-gong-ji-ff09.md)
 
