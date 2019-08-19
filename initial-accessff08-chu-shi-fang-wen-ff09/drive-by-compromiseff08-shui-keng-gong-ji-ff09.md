@@ -12,9 +12,14 @@
 
 ## 缓解方法
 
-先不管
 
-## 例子
+
+|  | Description |
+| :--- | :--- |
+| [Application Isolation and Sandboxing](https://attack.mitre.org/mitigations/M1048) |  Browser sandboxes can be used to mitigate some of the impact of exploitation, but sandbox escapes may still exist.Other types of virtualization and application microsegmentation may also mitigate the impact of client-side exploitation. The risks of additional exploits and weaknesses in implementation may still exist for these types of systems.[\[21\]](https://blogs.windows.com/msedgedev/2017/03/23/strengthening-microsoft-edge-sandbox/)[\[22\]](https://arstechnica.com/information-technology/2017/03/hack-that-escapes-vm-by-exploiting-edge-browser-fetches-105000-at-pwn2own/) |
+| [Exploit Protection](https://attack.mitre.org/mitigations/M1050) |  Security applications that look for behavior used during exploitation such as Windows Defender Exploit Guard \(WDEG\) and the Enhanced Mitigation Experience Toolkit \(EMET\) can be used to mitigate some exploitation behavior. Control flow integrity checking is another way to potentially identify and stop a software exploit from occurring. Many of these protections depend on the architecture and target application binary for compatibility.[\[23\]](https://blogs.technet.microsoft.com/srd/2017/08/09/moving-beyond-emet-ii-windows-defender-exploit-guard/)[\[24\]](https://en.wikipedia.org/wiki/Control-flow_integrity) |
+| [Restrict Web Based Content](https://attack.mitre.org/mitigations/M1021) |  For malicious code served up through ads, adblockers can help prevent that code from executing in the first place.Script blocking extensions can help prevent the execution of JavaScript that may commonly be used during the exploitation process. |
+| [Update Software](https://attack.mitre.org/mitigations/M1051) |  Ensure all browsers and plugins kept updated can help prevent the exploit phase of this technique. Use modern browsers with security features turned on.例子 |
 
 不管
 
@@ -29,6 +34,4 @@
 ## 参考
 
 先不管
-
-
 
