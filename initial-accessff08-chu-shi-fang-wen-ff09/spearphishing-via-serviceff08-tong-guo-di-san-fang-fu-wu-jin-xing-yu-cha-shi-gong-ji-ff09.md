@@ -10,17 +10,13 @@
 
 | Mitigation | Description |
 | :--- | :--- |
-| [Antivirus/Antimalware](https://attack.mitre.org/mitigations/M1049) |  Anti-virus can also automatically quarantine suspicious files. |
-| [Restrict Web Based Content](https://attack.mitre.org/mitigations/M1021) |  Determine if certain social media sites, personal webmail services, or other service that can be used for spearphishing is necessary for business operations and consider blocking access if activity cannot be monitored well or if it poses a significant risk. |
-| [User Training](https://attack.mitre.org/mitigations/M1017) |  Users can be trained to identify social engineering techniques and spearphishing emails with malicious links. |
+| [Antivirus/Antimalware](https://attack.mitre.org/mitigations/M1049) | Anti-virus can also automatically quarantine suspicious files. |
+| [Restrict Web Based Content](https://attack.mitre.org/mitigations/M1021) | Determine if certain social media sites, personal webmail services, or other service that can be used for spearphishing is necessary for business operations and consider blocking access if activity cannot be monitored well or if it poses a significant risk. |
+| [User Training](https://attack.mitre.org/mitigations/M1017) | Users can be trained to identify social engineering techniques and spearphishing emails with malicious links. |
 
 ## 例子
 
-| Name |
-| :--- |
-
-
-|  | Description |
+| Name | Description |
 | :--- | :--- |
 | [Dark Caracal](https://attack.mitre.org/groups/G0070) | [Dark Caracal](https://attack.mitre.org/groups/G0070) spearphished victims via Facebook and Whatsapp.[\[1\]](https://info.lookout.com/rs/051-ESQ-475/images/Lookout_Dark-Caracal_srr_20180118_us_v.1.0.pdf) |
 | [Magic Hound](https://attack.mitre.org/groups/G0059) | [Magic Hound](https://attack.mitre.org/groups/G0059) used various social media channels to spearphish victims.[\[2\]](https://www.secureworks.com/research/the-curious-case-of-mia-ash) |
