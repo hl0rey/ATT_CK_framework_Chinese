@@ -35,5 +35,9 @@
 | [TA505](https://attack.mitre.org/groups/G0092) | [TA505](https://attack.mitre.org/groups/G0092) has sent spearphishing emails containing malicious links.[\[32\]](https://www.proofpoint.com/us/threat-insight/post/threat-actor-profile-ta505-dridex-globeimposter)[\[33\]](https://www.proofpoint.com/us/threat-insight/post/servhelper-and-flawedgrace-new-malware-introduced-ta505) |
 | [Turla](https://attack.mitre.org/groups/G0010) | [Turla](https://attack.mitre.org/groups/G0010) attempted to trick targets into clicking on a link featuring a seemingly legitimate domain from Adobe.com to download their malware and gain initial access.[\[34\]](https://www.welivesecurity.com/wp-content/uploads/2018/01/ESET_Turla_Mosquito.pdf) |
 
+## 检测
+
+
+
 
 
