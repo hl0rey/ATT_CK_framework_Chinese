@@ -22,7 +22,7 @@
 ## 例子
 
 |  |
-| :--- |
+| :---: |
 
 
 | Name | Description |
@@ -40,7 +40,7 @@
 | [Lazarus Group](https://attack.mitre.org/groups/G0032) | [Lazarus Group](https://attack.mitre.org/groups/G0032) delivered [RATANKBA](https://attack.mitre.org/software/S0241) to victims via a compromised legitimate website.[\[14\]](https://blog.trendmicro.com/trendlabs-security-intelligence/ratankba-watering-holes-against-enterprises/) |
 | [Leafminer](https://attack.mitre.org/groups/G0077) | [Leafminer](https://attack.mitre.org/groups/G0077) has infected victims using watering holes.[\[15\]](https://www.symantec.com/blogs/threat-intelligence/leafminer-espionage-middle-east) |
 | [Patchwork](https://attack.mitre.org/groups/G0040) | [Patchwork](https://attack.mitre.org/groups/G0040) has used watering holes to deliver files with exploits to initial victims.[\[16\]](http://www.symantec.com/connect/blogs/patchwork-cyberespionage-group-expands-targets-governments-wide-range-industries)[\[17\]](https://www.volexity.com/blog/2018/06/07/patchwork-apt-group-targets-us-think-tanks/) |
-| [PLATINUM](https://attack.mitre.org/groups/G0068) | [PLATINUM](https://attack.mitre.org/groups/G0068) has sometimes used drive-by attacks against vulnerable browser plugins.[\[18\]](https://download.microsoft.com/download/2/2/5/225BFE3E-E1DE-4F5B-A77B-71200928D209/Platinum%20feature%20article%20-%20Targeted%20attacks%20in%20South%20and%20Southeast%20Asia%20April%202016.pdf) |
+| [PLATINUM](https://attack.mitre.org/groups/G0068) | [PLATINUM](https://attack.mitre.org/groups/G0068) has sometimes used drive-by attacks against vulnerable browser plugins.[\[18\]](https://download.microsoft.com/download/2/2/5/225BFE3E-E1DE-4F5B-A77B-71200928D209/Platinum feature article - Targeted attacks in South and Southeast Asia April 2016.pdf) |
 | [POORAIM](https://attack.mitre.org/software/S0216) | [POORAIM](https://attack.mitre.org/software/S0216) has been delivered through compromised sites acting as watering holes.[\[5\]](https://www2.fireeye.com/rs/848-DID-242/images/rpt_APT37.pdf) |
 | [Threat Group-3390](https://attack.mitre.org/groups/G0027) | [Threat Group-3390](https://attack.mitre.org/groups/G0027) has extensively used strategic web compromises to target victims.[\[19\]](https://www.secureworks.com/research/threat-group-3390-targets-organizations-for-cyberespionage)[\[20\]](https://securelist.com/luckymouse-hits-national-data-center/86083/) |
 
