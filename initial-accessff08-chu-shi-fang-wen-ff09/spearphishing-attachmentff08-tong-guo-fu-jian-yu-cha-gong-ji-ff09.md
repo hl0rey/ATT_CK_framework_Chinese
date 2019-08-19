@@ -8,10 +8,14 @@
 
 | Mitigation | Description |
 | :--- | :--- |
-| [Antivirus/Antimalware](https://attack.mitre.org/mitigations/M1049) |  Anti-virus can also automatically quarantine suspicious files. |
-| [Network Intrusion Prevention](https://attack.mitre.org/mitigations/M1031) |  Network intrusion prevention systems and systems designed to scan and remove malicious email attachments can be used to block activity. |
-| [Restrict Web Based Content](https://attack.mitre.org/mitigations/M1021) |  Block unknown or unused attachments by default that should not be transmitted over email as a best practice to prevent some vectors, such as .scr, .exe, .pif, .cpl, etc. Some email scanning devices can open and analyze compressed and encrypted formats, such as zip and rar that may be used to conceal malicious attachments in [Obfuscated Files or Information](https://attack.mitre.org/techniques/T1027). |
-| [User Training](https://attack.mitre.org/mitigations/M1017) |  Users can be trained to identify social engineering techniques and spearphishing emails. |
+| [Antivirus/Antimalware](https://attack.mitre.org/mitigations/M1049) | Anti-virus can also automatically quarantine suspicious files. |
+| [Network Intrusion Prevention](https://attack.mitre.org/mitigations/M1031) | Network intrusion prevention systems and systems designed to scan and remove malicious email attachments can be used to block activity. |
+| [Restrict Web Based Content](https://attack.mitre.org/mitigations/M1021) | Block unknown or unused attachments by default that should not be transmitted over email as a best practice to prevent some vectors, such as .scr, .exe, .pif, .cpl, etc. Some email scanning devices can open and analyze compressed and encrypted formats, such as zip and rar that may be used to conceal malicious attachments in [Obfuscated Files or Information](https://attack.mitre.org/techniques/T1027). |
+| [User Training](https://attack.mitre.org/mitigations/M1017) | Users can be trained to identify social engineering techniques and spearphishing emails. |
+
+## 例子
+
+
 
 
 
