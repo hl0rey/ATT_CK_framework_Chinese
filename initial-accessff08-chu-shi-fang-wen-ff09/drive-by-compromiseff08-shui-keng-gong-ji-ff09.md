@@ -50,5 +50,55 @@
 
 ## 参考
 
+[Adair, S., Moran, N. \(2012, May 15\). Cyber Espionage & Strategic Web Compromises – Trusted Websites Serving Dangerous Results. Retrieved March 13, 2018.](http://blog.shadowserver.org/2012/05/15/cyber-espionage-strategic-web-compromises-trusted-websites-serving-dangerous-results/)
+
+[Grunzweig, J., Lee, B. \(2016, January 22\). New Attacks Linked to C0d0so0 Group. Retrieved August 2, 2018.](https://researchcenter.paloaltonetworks.com/2016/01/new-attacks-linked-to-c0d0s0-group/)
+
+[Foltýn, T. \(2018, March 13\). OceanLotus ships new backdoor using old tricks. Retrieved May 22, 2018.](https://www.welivesecurity.com/2018/03/13/oceanlotus-ships-new-backdoor/)
+
+[Raiu, C., and Ivanov, A. \(2016, June 17\). Operation Daybreak. Retrieved February 15, 2018.](https://securelist.com/operation-daybreak/75100/)
+
+[FireEye. \(2018, February 20\). APT37 \(Reaper\): The Overlooked North Korean Actor. Retrieved March 1, 2018.](https://www2.fireeye.com/rs/848-DID-242/images/rpt_APT37.pdf)
+
+[FireEye. \(2018, October 03\). APT38: Un-usual Suspects. Retrieved November 6, 2018.](https://content.fireeye.com/apt/rpt-apt38)
+
+[DiMaggio, J. \(2016, April 28\). Tick cyberespionage group zeros in on Japan. Retrieved July 16, 2018.](https://www.symantec.com/connect/blogs/tick-cyberespionage-group-zeros-japan)
+
+[Blaich, A., et al. \(2018, January 18\). Dark Caracal: Cyber-espionage at a Global Scale. Retrieved April 11, 2018.](https://info.lookout.com/rs/051-ESQ-475/images/Lookout_Dark-Caracal_srr_20180118_us_v.1.0.pdf)
+
+[Kaspersky Lab's Global Research and Analysis Team. \(2014, November\). The Darkhotel APT A Story of Unusual Hospitality. Retrieved November 12, 2014.](https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2018/03/08070903/darkhotel_kl_07.11.pdf)
+
+[US-CERT. \(2018, March 16\). Alert \(TA18-074A\): Russian Government Cyber Activity Targeting Energy and Other Critical Infrastructure Sectors. Retrieved June 6, 2018.](https://www.us-cert.gov/ncas/alerts/TA18-074A)
+
+[O'Gorman, G., and McDonald, G.. \(2012, September 6\). The Elderwood Project. Retrieved February 15, 2018.](http://www.symantec.com/content/en/us/enterprise/media/security_response/whitepapers/the-elderwood-project.pdf)
+
+[Clayton, M.. \(2012, September 14\). Stealing US business secrets: Experts ID two huge cyber 'gangs' in China. Retrieved February 15, 2018.](https://www.csmonitor.com/USA/2012/0914/Stealing-US-business-secrets-Experts-ID-two-huge-cyber-gangs-in-China)
+
+[Paganini, P. \(2012, September 9\). Elderwood project, who is behind Op. Aurora and ongoing attacks?. Retrieved February 13, 2018.](http://securityaffairs.co/wordpress/8528/hacking/elderwood-project-who-is-behind-op-aurora-and-ongoing-attacks.html)
+
+[Trend Micro. \(2017, February 27\). RATANKBA: Delving into Large-scale Watering Holes against Enterprises. Retrieved May 22, 2018.](https://blog.trendmicro.com/trendlabs-security-intelligence/ratankba-watering-holes-against-enterprises/)
+
+[Symantec Security Response. \(2018, July 25\). Leafminer: New Espionage Campaigns Targeting Middle Eastern Regions. Retrieved August 28, 2018.](https://www.symantec.com/blogs/threat-intelligence/leafminer-espionage-middle-east)
+
+[Hamada, J.. \(2016, July 25\). Patchwork cyberespionage group expands targets from governments to wide range of industries. Retrieved August 17, 2016.](http://www.symantec.com/connect/blogs/patchwork-cyberespionage-group-expands-targets-governments-wide-range-industries)
+
+[Meltzer, M, et al. \(2018, June 07\). Patchwork APT Group Targets US Think Tanks. Retrieved July 16, 2018.](https://www.volexity.com/blog/2018/06/07/patchwork-apt-group-targets-us-think-tanks/)
+
+[Windows Defender Advanced Threat Hunting Team. \(2016, April 29\). PLATINUM: Targeted attacks in South and Southeast Asia. Retrieved February 15, 2018.](https://download.microsoft.com/download/2/2/5/225BFE3E-E1DE-4F5B-A77B-71200928D209/Platinum%20feature%20article%20-%20Targeted%20attacks%20in%20South%20and%20Southeast%20Asia%20April%202016.pdf)
+
+[Dell SecureWorks Counter Threat Unit Threat Intelligence. \(2015, August 5\). Threat Group-3390 Targets Organizations for Cyberespionage. Retrieved August 18, 2018.](https://www.secureworks.com/research/threat-group-3390-targets-organizations-for-cyberespionage)
+
+[Legezo, D. \(2018, June 13\). LuckyMouse hits national data center to organize country-level waterholing campaign. Retrieved August 18, 2018.](https://securelist.com/luckymouse-hits-national-data-center/86083/)
+
+[Cowan, C. \(2017, March 23\). Strengthening the Microsoft Edge Sandbox. Retrieved March 12, 2018.](https://blogs.windows.com/msedgedev/2017/03/23/strengthening-microsoft-edge-sandbox/)
+
+[Goodin, D. \(2017, March 17\). Virtual machine escape fetches $105,000 at Pwn2Own hacking contest - updated. Retrieved March 12, 2018.](https://arstechnica.com/information-technology/2017/03/hack-that-escapes-vm-by-exploiting-edge-browser-fetches-105000-at-pwn2own/)
+
+[Nunez, N. \(2017, August 9\). Moving Beyond EMET II – Windows Defender Exploit Guard. Retrieved March 12, 2018.](https://blogs.technet.microsoft.com/srd/2017/08/09/moving-beyond-emet-ii-windows-defender-exploit-guard/)
+
+[Wikipedia. \(2018, January 11\). Control-flow integrity. Retrieved March 12, 2018.](https://en.wikipedia.org/wiki/Control-flow_integrity)
+
+
+
 
 
