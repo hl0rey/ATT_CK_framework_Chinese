@@ -6,16 +6,12 @@
 
 ## 缓解
 
-| Mitigation |
-| :--- |
-
-
-|  | Description |
+| Mitigation | Description |
 | :--- | :--- |
-| [Disable or Remove Feature or Program](https://attack.mitre.org/mitigations/M1042) |  Disable or block remotely available services that may be unnecessary. |
-| [Limit Access to Resource Over Network](https://attack.mitre.org/mitigations/M1035) |  Limit access to remote services through centrally managed concentrators such as VPNs and other managed remote access systems. |
-| [Multi factor Authentication](https://attack.mitre.org/mitigations/M1032) |  Use strong two-factor or multi-factor authentication for remote service accounts to mitigate an adversary's ability to leverage stolen credentials, but be aware of [Two-Factor Authentication Interception](https://attack.mitre.org/techniques/T1111) techniques for some two-factor authentication implementations. |
-| [Network Segmentation](https://attack.mitre.org/mitigations/M1030) |  Deny direct remote access to internal systems through the use of network proxies, gateways, and firewalls. |
+| [Disable or Remove Feature or Program](https://attack.mitre.org/mitigations/M1042) | Disable or block remotely available services that may be unnecessary. |
+| [Limit Access to Resource Over Network](https://attack.mitre.org/mitigations/M1035) | Limit access to remote services through centrally managed concentrators such as VPNs and other managed remote access systems. |
+| [Multi factor Authentication](https://attack.mitre.org/mitigations/M1032) | Use strong two-factor or multi-factor authentication for remote service accounts to mitigate an adversary's ability to leverage stolen credentials, but be aware of [Two-Factor Authentication Interception](https://attack.mitre.org/techniques/T1111) techniques for some two-factor authentication implementations. |
+| [Network Segmentation](https://attack.mitre.org/mitigations/M1030) | Deny direct remote access to internal systems through the use of network proxies, gateways, and firewalls. |
 
 ## 例子
 
