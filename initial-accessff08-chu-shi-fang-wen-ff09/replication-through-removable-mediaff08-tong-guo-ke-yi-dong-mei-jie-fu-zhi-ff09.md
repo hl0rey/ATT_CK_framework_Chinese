@@ -6,8 +6,12 @@
 
 | Mitigation | Description |
 | :--- | :--- |
-| [Disable or Remove Feature or Program](https://attack.mitre.org/mitigations/M1042) |  Disable Autorun if it is unnecessary. Disallow or restrict removable media at an organizational policy level if it is not required for business operations.[\[14\]](https://support.microsoft.com/en-us/kb/967715)[\[15\]](https://technet.microsoft.com/en-us/library/cc772540%28v=ws.10%29.aspx) |
-| [Limit Hardware Installation](https://attack.mitre.org/mitigations/M1034) |  Limit the use of USB devices and removable media within a network. |
+| [Disable or Remove Feature or Program](https://attack.mitre.org/mitigations/M1042) | Disable Autorun if it is unnecessary. Disallow or restrict removable media at an organizational policy level if it is not required for business operations.[\[14\]](https://support.microsoft.com/en-us/kb/967715)[\[15\]](https://technet.microsoft.com/en-us/library/cc772540%28v=ws.10%29.aspx) |
+| [Limit Hardware Installation](https://attack.mitre.org/mitigations/M1034) | Limit the use of USB devices and removable media within a network. |
+
+## 例子
+
+
 
 
 
