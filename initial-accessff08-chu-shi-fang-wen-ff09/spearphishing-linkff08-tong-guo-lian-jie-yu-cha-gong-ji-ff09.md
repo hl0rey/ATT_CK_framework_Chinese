@@ -41,3 +41,42 @@
 
 这种攻击技术通常需要在终端上的用户的交互，所以在用户执行之后有很多可以检测钓鱼链接的点。
 
+## 参考
+
+1. [Mueller, R. \(2018, July 13\). Indictment - United States of America vs. VIKTOR BORISOVICH NETYKSHO, et al. Retrieved September 13, 2018.](https://www.justice.gov/file/1080281/download)
+2. [ESET Research. \(2019, May 22\). A journey to Zebrocy land. Retrieved June 20, 2019.](https://www.welivesecurity.com/2019/05/22/journey-zebrocy-land/)
+3. [Dunwoody, M. and Carr, N.. \(2016, September 27\). No Easy Breach DerbyCon 2016. Retrieved October 4, 2016.](http://www.slideshare.net/MatthewDunwoody1/no-easy-breach-derby-con-2016)
+4. [Foltýn, T. \(2018, March 13\). OceanLotus ships new backdoor using old tricks. Retrieved May 22, 2018.](https://www.welivesecurity.com/2018/03/13/oceanlotus-ships-new-backdoor/)
+5. [Dahan, A. \(2017, May 24\). OPERATION COBALT KITTY: A LARGE-SCALE APT IN ASIA CARRIED OUT BY THE OCEANLOTUS GROUP. Retrieved November 5, 2018.](https://www.cybereason.com/blog/operation-cobalt-kitty-apt)
+6. [O'Leary, J., et al. \(2017, September 20\). Insights into Iranian Cyber Espionage: APT33 Targets Aerospace and Energy Sectors and has Ties to Destructive Malware. Retrieved February 15, 2018.](https://www.fireeye.com/blog/threat-research/2017/09/apt33-insights-into-iranian-cyber-espionage.html)
+7. [Security Response attack Investigation Team. \(2019, March 27\). Elfin: Relentless Espionage Group Targets Multiple Organizations in Saudi Arabia and U.S.. Retrieved April 10, 2019.](https://www.symantec.com/blogs/threat-intelligence/elfin-apt33-espionage)
+8. [Hawley et al. \(2019, January 29\). APT39: An Iranian Cyber Espionage Group Focused on Personal Information. Retrieved February 19, 2019.](https://www.fireeye.com/blog/threat-research/2019/01/apt39-iranian-cyber-espionage-group-focused-on-personal-information.html)
+9. [Svajcer, V. \(2018, July 31\). Multiple Cobalt Personality Disorder. Retrieved September 5, 2018.](https://blog.talosintelligence.com/2018/07/multiple-cobalt-personality-disorder.html)
+10. [US-CERT. \(2018, March 16\). Alert \(TA18-074A\): Russian Government Cyber Activity Targeting Energy and Other Critical Infrastructure Sectors. Retrieved June 6, 2018.](https://www.us-cert.gov/ncas/alerts/TA18-074A)
+11. [O'Gorman, G., and McDonald, G.. \(2012, September 6\). The Elderwood Project. Retrieved February 15, 2018.](http://www.symantec.com/content/en/us/enterprise/media/security_response/whitepapers/the-elderwood-project.pdf)
+12. [Clayton, M.. \(2012, September 14\). Stealing US business secrets: Experts ID two huge cyber 'gangs' in China. Retrieved February 15, 2018.](https://www.csmonitor.com/USA/2012/0914/Stealing-US-business-secrets-Experts-ID-two-huge-cyber-gangs-in-China)
+13. [Salvio, J.. \(2014, June 27\). New Banking Malware Uses Network Sniffing for Data Theft. Retrieved March 25, 2019.](https://blog.trendmicro.com/trendlabs-security-intelligence/new-banking-malware-uses-network-sniffing-for-data-theft/)
+14. [Shulmin, A. . \(2015, April 9\). The Banking Trojan Emotet: Detailed Analysis. Retrieved March 25, 2019.](https://securelist.com/the-banking-trojan-emotet-detailed-analysis/69560/)
+15. [CIS. \(2017, April 28\). Emotet Changes TTPs and Arrives in United States. Retrieved January 17, 2019.](https://www.cisecurity.org/blog/emotet-changes-ttp-and-arrives-in-united-states/)
+16. [Smith, A.. \(2017, December 22\). Protect your network from Emotet Trojan with Malwarebytes Endpoint Security. Retrieved January 17, 2019.](https://support.malwarebytes.com/docs/DOC-2295)
+17. [Symantec. \(2018, July 18\). The Evolution of Emotet: From Banking Trojan to Threat Distributor. Retrieved March 25, 2019.](https://www.symantec.com/blogs/threat-intelligence/evolution-emotet-trojan-distributor)
+18. [US-CERT. \(2018, July 20\). Alert \(TA18-201A\) Emotet Malware. Retrieved March 25, 2019.](https://www.us-cert.gov/ncas/alerts/TA18-201A)
+19. [Brumaghin, E.. \(2019, January 15\). Emotet re-emerges after the holidays. Retrieved March 25, 2019.](https://blog.talosintelligence.com/2019/01/return-of-emotet.html)
+20. [Özarslan, S. \(2018, December 21\). The Christmas Card you never wanted - A new wave of Emotet is back to wreak havoc. Retrieved March 25, 2019.](https://www.picussecurity.com/blog/the-christmas-card-you-never-wanted-a-new-wave-of-emotet-is-back-to-wreak-havoc.html)
+21. [Vengerik, B. et al.. \(2014, December 5\). Hacking the Street? FIN4 Likely Playing the Market. Retrieved December 17, 2018.](https://www.fireeye.com/current-threats/threat-intelligence-reports/rpt-fin4.html)
+22. [Vengerik, B. & Dennesen, K.. \(2014, December 5\). Hacking the Street? FIN4 Likely Playing the Market. Retrieved January 15, 2019.](https://www2.fireeye.com/WBNR-14Q4NAMFIN4.html)
+23. [Elovitz, S. & Ahl, I. \(2016, August 18\). Know Your Enemy: New Financially-Motivated & Spear-Phishing Group. Retrieved February 26, 2018.](https://www2.fireeye.com/WBNR-Know-Your-Enemy-UNC622-Spear-Phishing.html)
+24. [Axel F, Pierre T. \(2017, October 16\). Leviathan: Espionage actor spearphishes maritime and defense targets. Retrieved February 15, 2018.](https://www.proofpoint.com/us/threat-insight/post/leviathan-espionage-actor-spearphishes-maritime-and-defense-targets)
+25. [Counter Threat Unit Research Team. \(2017, July 27\). The Curious Case of Mia Ash: Fake Persona Lures Middle Eastern Targets. Retrieved February 26, 2018.](https://www.secureworks.com/research/the-curious-case-of-mia-ash)
+26. [McAfee® Foundstone® Professional Services and McAfee Labs™. \(2011, February 10\). Global Energy Cyberattacks: “Night Dragon”. Retrieved February 19, 2018.](https://securingtomorrow.mcafee.com/wp-content/uploads/2011/02/McAfee_NightDragon_wp_draft_to_customersv1-1.pdf)
+27. [Lee, B., Falcone, R. \(2018, February 23\). OopsIE! OilRig Uses ThreeDollars to Deliver New Trojan. Retrieved July 16, 2018.](https://researchcenter.paloaltonetworks.com/2018/02/unit42-oopsie-oilrig-uses-threedollars-deliver-new-trojan/)
+28. [Hamada, J.. \(2016, July 25\). Patchwork cyberespionage group expands targets from governments to wide range of industries. Retrieved August 17, 2016.](http://www.symantec.com/connect/blogs/patchwork-cyberespionage-group-expands-targets-governments-wide-range-industries)
+29. [Lunghi, D., et al. \(2017, December\). Untangling the Patchwork Cyberespionage Group. Retrieved July 10, 2018.](https://documents.trendmicro.com/assets/tech-brief-untangling-the-patchwork-cyberespionage-group.pdf)
+30. [Meltzer, M, et al. \(2018, June 07\). Patchwork APT Group Targets US Think Tanks. Retrieved July 16, 2018.](https://www.volexity.com/blog/2018/06/07/patchwork-apt-group-targets-us-think-tanks/)
+31. [ASERT team. \(2018, December 5\). STOLEN PENCIL Campaign Targets Academia. Retrieved February 5, 2019.](https://asert.arbornetworks.com/stolen-pencil-campaign-targets-academia/)
+32. [Proofpoint Staff. \(2017, September 27\). Threat Actor Profile: TA505, From Dridex to GlobeImposter. Retrieved May 28, 2019.](https://www.proofpoint.com/us/threat-insight/post/threat-actor-profile-ta505-dridex-globeimposter)
+33. [Schwarz, D. and Proofpoint Staff. \(2019, January 9\). ServHelper and FlawedGrace - New malware introduced by TA505. Retrieved May 28, 2019.](https://www.proofpoint.com/us/threat-insight/post/servhelper-and-flawedgrace-new-malware-introduced-ta505)
+34. [ESET, et al. \(2018, January\). Diplomats in Eastern Europe bitten by a Turla mosquito. Retrieved July 3, 2018.](https://www.welivesecurity.com/wp-content/uploads/2018/01/ESET_Turla_Mosquito.pdf)
+35. 
+
+
