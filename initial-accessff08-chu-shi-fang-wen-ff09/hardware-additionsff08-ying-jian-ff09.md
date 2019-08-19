@@ -4,14 +4,10 @@
 
 ## 缓解
 
-| Mitigation |
-| :--- |
-
-
-|  | Description |
+| Mitigation | Description |
 | :--- | :--- |
-| [Limit Access to Resource Over Network](https://attack.mitre.org/mitigations/M1035) |  Establish network access control policies, such as using device certificates and the 802.1x standard. Restrict use of DHCP to registered devices to prevent unregistered devices from communicating with trusted systems.[\[6\]](https://en.wikipedia.org/wiki/IEEE_802.1X) |
-| [Limit Hardware Installation](https://attack.mitre.org/mitigations/M1034) |  Block unknown devices and accessories by endpoint security configuration and monitoring agent. |
+| [Limit Access to Resource Over Network](https://attack.mitre.org/mitigations/M1035) | Establish network access control policies, such as using device certificates and the 802.1x standard. Restrict use of DHCP to registered devices to prevent unregistered devices from communicating with trusted systems.[\[6\]](https://en.wikipedia.org/wiki/IEEE_802.1X) |
+| [Limit Hardware Installation](https://attack.mitre.org/mitigations/M1034) | Block unknown devices and accessories by endpoint security configuration and monitoring agent. |
 
 ## 检测
 
