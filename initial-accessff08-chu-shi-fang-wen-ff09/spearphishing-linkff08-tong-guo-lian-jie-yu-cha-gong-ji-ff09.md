@@ -6,7 +6,10 @@
 
 ## 缓解
 
-
+| Mitigation | Description |
+| :--- | :--- |
+| [Restrict Web Based Content](https://attack.mitre.org/mitigations/M1021) |  Determine if certain websites that can be used for spearphishing are necessary for business operations and consider blocking access if activity cannot be monitored well or if it poses a significant risk. |
+| [User Training](https://attack.mitre.org/mitigations/M1017) |  Users can be trained to identify social engineering techniques and spearphishing emails with malicious links. |
 
 
 
