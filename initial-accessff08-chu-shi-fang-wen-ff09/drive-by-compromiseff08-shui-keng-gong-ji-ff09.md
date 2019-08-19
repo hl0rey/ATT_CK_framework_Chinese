@@ -21,7 +21,28 @@
 
 ## 例子
 
+|  |
+| :--- |
 
+
+| Name | Description |
+| :--- | :--- |
+| [APT19](https://attack.mitre.org/groups/G0073) | [APT19](https://attack.mitre.org/groups/G0073) performed a watering hole attack on forbes.com in 2014 to compromise targets.[\[2\]](https://researchcenter.paloaltonetworks.com/2016/01/new-attacks-linked-to-c0d0s0-group/) |
+| [APT32](https://attack.mitre.org/groups/G0050) | [APT32](https://attack.mitre.org/groups/G0050) has infected victims by tricking them into visiting compromised watering hole websites.[\[3\]](https://www.welivesecurity.com/2018/03/13/oceanlotus-ships-new-backdoor/) |
+| [APT37](https://attack.mitre.org/groups/G0067) | [APT37](https://attack.mitre.org/groups/G0067) has used strategic web compromises, particularly of South Korean websites, to distribute malware. The group has also used torrent file-sharing sites to more indiscriminately disseminate malware to victims. As part of their compromises, the group has used a Javascript based profiler called RICECURRY to profile a victim's web browser and deliver malicious code accordingly.[\[4\]](https://securelist.com/operation-daybreak/75100/)[\[5\]](https://www2.fireeye.com/rs/848-DID-242/images/rpt_APT37.pdf) |
+| [APT38](https://attack.mitre.org/groups/G0082) | [APT38](https://attack.mitre.org/groups/G0082) has conducted watering holes schemes to gain initial access to victims.[\[6\]](https://content.fireeye.com/apt/rpt-apt38) |
+| [BRONZE BUTLER](https://attack.mitre.org/groups/G0060) | [BRONZE BUTLER](https://attack.mitre.org/groups/G0060) compromised three Japanese websites using a Flash exploit to perform watering hole attacks.[\[7\]](https://www.symantec.com/connect/blogs/tick-cyberespionage-group-zeros-japan) |
+| [Dark Caracal](https://attack.mitre.org/groups/G0070) | [Dark Caracal](https://attack.mitre.org/groups/G0070) leveraged a watering hole to serve up malicious code.[\[8\]](https://info.lookout.com/rs/051-ESQ-475/images/Lookout_Dark-Caracal_srr_20180118_us_v.1.0.pdf) |
+| [Darkhotel](https://attack.mitre.org/groups/G0012) | [Darkhotel](https://attack.mitre.org/groups/G0012) used embedded iframes on hotel login portals to redirect selected victims to download malware.[\[9\]](https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2018/03/08070903/darkhotel_kl_07.11.pdf) |
+| [Dragonfly 2.0](https://attack.mitre.org/groups/G0074) | [Dragonfly 2.0](https://attack.mitre.org/groups/G0074) compromised legitimate organizations' websites to create watering holes to compromise victims.[\[10\]](https://www.us-cert.gov/ncas/alerts/TA18-074A) |
+| [Elderwood](https://attack.mitre.org/groups/G0066) | [Elderwood](https://attack.mitre.org/groups/G0066) has delivered zero-day exploits and malware to victims by injecting malicious code into specific public Web pages visited by targets within a particular sector.[\[11\]](http://www.symantec.com/content/en/us/enterprise/media/security_response/whitepapers/the-elderwood-project.pdf)[\[12\]](https://www.csmonitor.com/USA/2012/0914/Stealing-US-business-secrets-Experts-ID-two-huge-cyber-gangs-in-China)[\[13\]](http://securityaffairs.co/wordpress/8528/hacking/elderwood-project-who-is-behind-op-aurora-and-ongoing-attacks.html) |
+| [KARAE](https://attack.mitre.org/software/S0215) | [KARAE](https://attack.mitre.org/software/S0215) was distributed through torrent file-sharing websites to South Korean victims, using a YouTube video downloader application as a lure.[\[5\]](https://www2.fireeye.com/rs/848-DID-242/images/rpt_APT37.pdf) |
+| [Lazarus Group](https://attack.mitre.org/groups/G0032) | [Lazarus Group](https://attack.mitre.org/groups/G0032) delivered [RATANKBA](https://attack.mitre.org/software/S0241) to victims via a compromised legitimate website.[\[14\]](https://blog.trendmicro.com/trendlabs-security-intelligence/ratankba-watering-holes-against-enterprises/) |
+| [Leafminer](https://attack.mitre.org/groups/G0077) | [Leafminer](https://attack.mitre.org/groups/G0077) has infected victims using watering holes.[\[15\]](https://www.symantec.com/blogs/threat-intelligence/leafminer-espionage-middle-east) |
+| [Patchwork](https://attack.mitre.org/groups/G0040) | [Patchwork](https://attack.mitre.org/groups/G0040) has used watering holes to deliver files with exploits to initial victims.[\[16\]](http://www.symantec.com/connect/blogs/patchwork-cyberespionage-group-expands-targets-governments-wide-range-industries)[\[17\]](https://www.volexity.com/blog/2018/06/07/patchwork-apt-group-targets-us-think-tanks/) |
+| [PLATINUM](https://attack.mitre.org/groups/G0068) | [PLATINUM](https://attack.mitre.org/groups/G0068) has sometimes used drive-by attacks against vulnerable browser plugins.[\[18\]](https://download.microsoft.com/download/2/2/5/225BFE3E-E1DE-4F5B-A77B-71200928D209/Platinum%20feature%20article%20-%20Targeted%20attacks%20in%20South%20and%20Southeast%20Asia%20April%202016.pdf) |
+| [POORAIM](https://attack.mitre.org/software/S0216) | [POORAIM](https://attack.mitre.org/software/S0216) has been delivered through compromised sites acting as watering holes.[\[5\]](https://www2.fireeye.com/rs/848-DID-242/images/rpt_APT37.pdf) |
+| [Threat Group-3390](https://attack.mitre.org/groups/G0027) | [Threat Group-3390](https://attack.mitre.org/groups/G0027) has extensively used strategic web compromises to target victims.[\[19\]](https://www.secureworks.com/research/threat-group-3390-targets-organizations-for-cyberespionage)[\[20\]](https://securelist.com/luckymouse-hits-national-data-center/86083/) |
 
 ## 检测
 
