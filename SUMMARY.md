@@ -16,4 +16,5 @@
 * [Spearphishing via Service（通过第三方服务进行鱼叉式攻击）](initial-accessff08-chu-shi-fang-wen-ff09/spearphishing-via-serviceff08-tong-guo-di-san-fang-fu-wu-jin-xing-yu-cha-shi-gong-ji-ff09.md)
 * [Supply Chain Compromise（供应链攻击）](initial-accessff08-chu-shi-fang-wen-ff09/supply-chain-compromiseff08-gong-ying-lian-gong-ji-ff09.md)
 * [Trusted Relationship（信任关系）](initial-accessff08-chu-shi-fang-wen-ff09/trusted-relationshipff08-xin-ren-guan-xi-ff09.md)
+* [Valid Accounts（合法账户）](initial-accessff08-chu-shi-fang-wen-ff09/valid-accountsff08-he-fa-zhang-hu-ff09.md)
 
