@@ -18,5 +18,7 @@
 | [APT28](https://attack.mitre.org/groups/G0007) | Once [APT28](https://attack.mitre.org/groups/G0007) gained access to the DCCC network, the group then proceeded to use that access to compromise the DNC network.[\[1\]](https://www.justice.gov/file/1080281/download) |
 | [menuPass](https://attack.mitre.org/groups/G0045) | [menuPass](https://attack.mitre.org/groups/G0045) has used legitimate access granted to Managed Service Providers in order to access victims of interest.[\[2\]](https://www.pwc.co.uk/cyber-security/pdf/cloud-hopper-annex-b-final.pdf)[\[3\]](https://www.fireeye.com/blog/threat-research/2017/04/apt10_menupass_grou.html) |
 
+## 检测
 
+为第二和第三方服务提供商以及其他服务提供商对网络的访问的建立监控。如果可信关系是基于IT服务的，那么攻击者可能很快就能对目标采取行动。
 
