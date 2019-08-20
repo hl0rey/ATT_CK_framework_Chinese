@@ -6,7 +6,10 @@
 
 ## 缓解
 
-
+| Mitigation | Description |
+| :--- | :--- |
+| [Network Segmentation](https://attack.mitre.org/mitigations/M1030) |  Network segmentation can be used to isolate infrastructure components that do not require broad network access. |
+| [User Account Control](https://attack.mitre.org/mitigations/M1052) |  Properly manage accounts and permissions used by parties in trusted relationships to minimize potential abuse by the party and if the party is compromised by an adversary. |
 
 
 
