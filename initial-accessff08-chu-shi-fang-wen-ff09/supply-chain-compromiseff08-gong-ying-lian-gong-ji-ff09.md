@@ -20,8 +20,8 @@
 
 | Mitigation | Description |
 | :--- | :--- |
-| [Update Software](https://attack.mitre.org/mitigations/M1051) |  A patch management process should be implemented to check unused dependencies, unmaintained and/or previously vulnerable dependencies, unnecessary features, components, files, and documentation. |
-| [Vulnerability Scanning](https://attack.mitre.org/mitigations/M1016) |  Continuous monitoring of vulnerability sources and the use of automatic and manual code review tools should also be implemented as well. |
+| [Update Software](https://attack.mitre.org/mitigations/M1051) | A patch management process should be implemented to check unused dependencies, unmaintained and/or previously vulnerable dependencies, unnecessary features, components, files, and documentation. |
+| [Vulnerability Scanning](https://attack.mitre.org/mitigations/M1016) | Continuous monitoring of vulnerability sources and the use of automatic and manual code review tools should also be implemented as well. |
 
 ## 例子
 
@@ -31,6 +31,10 @@
 | [Elderwood](https://attack.mitre.org/groups/G0066) | [Elderwood](https://attack.mitre.org/groups/G0066) has targeted manufacturers in the supply chain for the defense industry.[\[4\]](http://www.symantec.com/content/en/us/enterprise/media/security_response/whitepapers/the-elderwood-project.pdf) |
 | [NotPetya](https://attack.mitre.org/software/S0368) | [NotPetya](https://attack.mitre.org/software/S0368)'s initial infection vector for the June 27, 2017 compromise was a backdoor in the Ukrainian tax accounting software M.E.Doc.[\[8\]](https://blog.talosintelligence.com/2017/06/worldwide-ransomware-variant.html)[\[9\]](https://www.us-cert.gov/ncas/alerts/TA17-181A)[\[10\]](https://blog.talosintelligence.com/2017/07/the-medoc-connection.html) |
 | [Smoke Loader](https://attack.mitre.org/software/S0226) | [Smoke Loader](https://attack.mitre.org/software/S0226) was distributed through a compromised update to a Tor client with a coin miner payload.[\[2\]](https://cloudblogs.microsoft.com/microsoftsecure/2018/03/07/behavior-monitoring-combined-with-machine-learning-spoils-a-massive-dofoil-coin-mining-campaign/) |
+
+## 检测
+
+
 
 
 
