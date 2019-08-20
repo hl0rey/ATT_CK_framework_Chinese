@@ -38,7 +38,17 @@
 
 ## 参考
 
+1. [Avast Threat Intelligence Team. \(2018, March 8\). New investigations into the CCleaner incident point to a possible third stage that had keylogger capacities. Retrieved March 15, 2018.](https://blog.avast.com/new-investigations-in-ccleaner-incident-point-to-a-possible-third-stage-that-had-keylogger-capacities)
 
+2. [Windows Defender Research. \(2018, March 7\). Behavior monitoring combined with machine learning spoils a massive Dofoil coin mining campaign. Retrieved March 20, 2018.](https://cloudblogs.microsoft.com/microsoftsecure/2018/03/07/behavior-monitoring-combined-with-machine-learning-spoils-a-massive-dofoil-coin-mining-campaign/)
+3. [Command Five Pty Ltd. \(2011, September\). SK Hack by an Advanced Persistent Threat. Retrieved April 6, 2018.](https://www.commandfive.com/papers/C5_APT_SKHack.pdf)
+4. [O'Gorman, G., and McDonald, G.. \(2012, September 6\). The Elderwood Project. Retrieved February 15, 2018.](http://www.symantec.com/content/en/us/enterprise/media/security_response/whitepapers/the-elderwood-project.pdf)
+5. [Trendmicro. \(2018, November 29\). Hacker Infects Node.js Package to Steal from Bitcoin Wallets. Retrieved April 10, 2019.](https://www.trendmicro.com/vinfo/dk/security/news/cybercrime-and-digital-threats/hacker-infects-node-js-package-to-steal-from-bitcoin-wallets)
+6. [Brumaghin, E. et al. \(2017, September 18\). CCleanup: A Vast Number of Machines at Risk. Retrieved March 9, 2018.](http://blog.talosintelligence.com/2017/09/avast-distributes-malware.html)
+7. [Rosenberg, J. \(2017, September 20\). Evidence Aurora Operation Still Active: Supply Chain Attack Through CCleaner. Retrieved February 13, 2018.](http://www.intezer.com/evidence-aurora-operation-still-active-supply-chain-attack-through-ccleaner/)
+8. [Chiu, A. \(2016, June 27\). New Ransomware Variant "Nyetya" Compromises Systems Worldwide. Retrieved March 26, 2019.](https://blog.talosintelligence.com/2017/06/worldwide-ransomware-variant.html)
+9. [US-CERT. \(2017, July 1\). Alert \(TA17-181A\): Petya Ransomware. Retrieved March 15, 2019.](https://www.us-cert.gov/ncas/alerts/TA17-181A)
+10. [Maynor, D., Nikolic, A., Olney, M., and Younan, Y. \(2017, July 5\). The MeDoc Connection. Retrieved March 26, 2019.](https://blog.talosintelligence.com/2017/07/the-medoc-connection.html)
 
 
 
