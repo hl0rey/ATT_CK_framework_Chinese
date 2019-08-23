@@ -21,4 +21,5 @@
 ## Execution（执行）
 
 * [AppleScript](executionff08-zhi-xing-ff09/applescript.md)
+* [CMSTP](executionff08-zhi-xing-ff09/cmstp.md)
 
