@@ -10,13 +10,17 @@ macOS和OS X系统的程序互相通过发送AppleEvent消息的方式进行进�
 
 | Mitigation | Description |
 | :--- | :--- |
-| [Code Signing](https://attack.mitre.org/mitigations/M1045) |  Require that all AppleScript be signed by a trusted developer ID before being executed - this will prevent random AppleScript code from executing. This subjects AppleScript code to the same scrutiny as other .app files passing through Gatekeeper.[\[3\]](https://www.engadget.com/2013/10/23/applescript-and-automator-gain-new-features-in-os-x-mavericks/) |
+| [Code Signing](https://attack.mitre.org/mitigations/M1045) | Require that all AppleScript be signed by a trusted developer ID before being executed - this will prevent random AppleScript code from executing. This subjects AppleScript code to the same scrutiny as other .app files passing through Gatekeeper.[\[3\]](https://www.engadget.com/2013/10/23/applescript-and-automator-gain-new-features-in-os-x-mavericks/) |
 
 ## 例子
 
-
+| Name | Description |
+| :--- | :--- |
+| [Dok](https://attack.mitre.org/software/S0281) | [Dok](https://attack.mitre.org/software/S0281) uses AppleScript to create a login item for persistence.[\[2\]](https://objective-see.com/blog/blog_0x25.html) |
 
 ## 检测
+
+
 
 ## 参考
 
