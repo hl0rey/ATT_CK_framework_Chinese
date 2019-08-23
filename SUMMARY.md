@@ -18,3 +18,7 @@
 * [Trusted Relationship（信任关系）](initial-accessff08-chu-shi-fang-wen-ff09/trusted-relationshipff08-xin-ren-guan-xi-ff09.md)
 * [Valid Accounts（合法账户）](initial-accessff08-chu-shi-fang-wen-ff09/valid-accountsff08-he-fa-zhang-hu-ff09.md)
 
+## Execution（执行）
+
+* [AppleScript](executionff08-zhi-xing-ff09/applescript.md)
+
