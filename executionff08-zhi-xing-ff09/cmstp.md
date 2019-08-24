@@ -35,7 +35,7 @@ CMSTP.exe也可以用来绕过UAC，并通过自动提升权限（自动过UAC�
 Sysmon可以帮助检测潜在的CMSTP.exe的滥用。不同的攻击者手法各异，但是以下检测规则可能有用：
 
 * 检测CMSTP.exe加载、执行远程payload的行为。Event 1（Process creation）中ParentImage包含CMSTP.exe或者Event 3（网络链接）中Image包含CMSTP.exe并且DestinationIP是外网的。
-* 检测通过自动提升权限的COM接口绕过UAC。
+* 检测通过自动提升权限的COM接口绕过UAC。Event 10（进程访问）中CallTrace包含CMLUA.dll或者Event 12、13（注册表事件）中TargetObject包含 CMMGR32.exe。同时也可以监视进程创建事件（Sysmon Event 1）中CMSTP对自动提升权限的COM接口（比如 CMSTPLUA \(3E5FC7F9-9A51-4367-9063-A120244FBEC7\) 和 CMLUAUTIL \(3E000D72-A845-4CD9-BD83-80C07C3B881F\).）的调用。
 
 
 
