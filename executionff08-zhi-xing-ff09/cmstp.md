@@ -12,3 +12,5 @@
 
 攻击者可能向CMSTP.exe提供被恶意命令感染的INF文件。类似于 Regsvr32/“Squiblydoo”技术，CMSTP.exe可能被滥用为从远程服务器加载、执行DLL或者COM scriptlet（SCT）的工具。这种执行方式可能绕过Applocker或者其他白名单限制（因为CMSTP.exe是合法的、签名的微软程序）。
 
+CMSTP.exe也可以用来绕过UAC，并通过自动提升权限（自动过UAC）的COM接口执行恶意INF文件中的命令。
+
