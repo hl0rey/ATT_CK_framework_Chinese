@@ -14,3 +14,16 @@
 
 CMSTP.exe也可以用来绕过UAC，并通过自动提升权限（自动过UAC）的COM接口执行恶意INF文件中的命令。
 
+## 缓解
+
+| Mitigation | Description |
+| :--- | :--- |
+| [Disable or Remove Feature or Program](https://attack.mitre.org/mitigations/M1042) |  CMSTP.exe may not be necessary within a given environment \(unless using it for VPN connection installation\). |
+| [Execution Prevention](https://attack.mitre.org/mitigations/M1038) |  Consider using application whitelisting configured to block execution of CMSTP.exe if it is not required for a given system or network to prevent potential misuse by adversaries. |
+
+## 例子
+
+
+
+
+
