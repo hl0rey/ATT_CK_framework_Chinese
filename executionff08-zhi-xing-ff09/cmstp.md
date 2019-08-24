@@ -18,12 +18,23 @@ CMSTP.exe也可以用来绕过UAC，并通过自动提升权限（自动过UAC�
 
 | Mitigation | Description |
 | :--- | :--- |
-| [Disable or Remove Feature or Program](https://attack.mitre.org/mitigations/M1042) |  CMSTP.exe may not be necessary within a given environment \(unless using it for VPN connection installation\). |
-| [Execution Prevention](https://attack.mitre.org/mitigations/M1038) |  Consider using application whitelisting configured to block execution of CMSTP.exe if it is not required for a given system or network to prevent potential misuse by adversaries. |
+| [Disable or Remove Feature or Program](https://attack.mitre.org/mitigations/M1042) | CMSTP.exe may not be necessary within a given environment \(unless using it for VPN connection installation\). |
+| [Execution Prevention](https://attack.mitre.org/mitigations/M1038) | Consider using application whitelisting configured to block execution of CMSTP.exe if it is not required for a given system or network to prevent potential misuse by adversaries. |
 
 ## 例子
 
+| Name | Description |
+| :--- | :--- |
+| [Cobalt Group](https://attack.mitre.org/groups/G0080) | [Cobalt Group](https://attack.mitre.org/groups/G0080) has used the command `cmstp.exe /s /ns C:\Users\ADMINI~W\AppData\Local\Temp\XKNqbpzl.txt` to bypass AppLocker and launch a malicious script.[\[7\]](https://blog.talosintelligence.com/2018/07/multiple-cobalt-personality-disorder.html)[\[8\]](https://blog.morphisec.com/cobalt-gang-2.0)[\[9\]](https://researchcenter.paloaltonetworks.com/2018/10/unit42-new-techniques-uncover-attribute-cobalt-gang-commodity-builders-infrastructure-revealed/) |
+| [MuddyWater](https://attack.mitre.org/groups/G0069) | [MuddyWater](https://attack.mitre.org/groups/G0069) has used CMSTP.exe and a malicious INF to execute its [POWERSTATS](https://attack.mitre.org/software/S0223) payload.[\[10\]](https://www.fireeye.com/blog/threat-research/2018/03/iranian-threat-group-updates-ttps-in-spear-phishing-campaign.html) |
 
+## 检测
+
+使用进程监控来检测和分析CMSTP.exe的执行和参数。通过将最近的CMSTP.exe的活动与之前已知的正常的参数和加载的文件来对比，以发现异常的和潜在的攻击行为。
+
+Sysmon可以帮助检测潜在的CMSTP.exe的滥用。不同的攻击者手法各异，但是以下检测规则可能有用：
+
+* 检测CMSTP.exe加载、执行远程payload的行为。Event 1（Process creation）当ParentImage包含CMSTP.exe；
 
 
 
