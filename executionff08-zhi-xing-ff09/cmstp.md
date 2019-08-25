@@ -49,6 +49,8 @@ Sysmon可以帮助检测潜在的CMSTP.exe的滥用。不同的攻击者手法�
 8. [Gorelik, M. \(2018, October 08\). Cobalt Group 2.0. Retrieved November 5, 2018.](https://blog.morphisec.com/cobalt-gang-2.0)
 9. [Unit 42. \(2018, October 25\). New Techniques to Uncover and Attribute Financial actors Commodity Builders and Infrastructure Revealed. Retrieved December 11, 2018.](https://researchcenter.paloaltonetworks.com/2018/10/unit42-new-techniques-uncover-attribute-cobalt-gang-commodity-builders-infrastructure-revealed/)
 10. [Singh, S. et al.. \(2018, March 13\). Iranian Threat Group Updates Tactics, Techniques and Procedures in Spear Phishing Campaign. Retrieved April 11, 2018.](https://www.fireeye.com/blog/threat-research/2018/03/iranian-threat-group-updates-ttps-in-spear-phishing-campaign.html)
-11. 
+
+
+
 
 
