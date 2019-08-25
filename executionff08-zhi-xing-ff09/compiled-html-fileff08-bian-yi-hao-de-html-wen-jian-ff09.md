@@ -25,7 +25,18 @@
 
 ## 参考
 
+1. [Microsoft. \(2018, May 30\). Microsoft HTML Help 1.4. Retrieved October 3, 2018.](https://docs.microsoft.com/previous-versions/windows/desktop/htmlhelp/microsoft-html-help-1-4-sdk)
 
+2. [Microsoft. \(n.d.\). HTML Help ActiveX Control Overview. Retrieved October 3, 2018.](https://msdn.microsoft.com/windows/desktop/ms644670)
+3. [Microsoft. \(n.d.\). About the HTML Help Executable Program. Retrieved October 3, 2018.](https://msdn.microsoft.com/windows/desktop/ms524405)
+4. [Moe, O. \(2017, August 13\). Bypassing Device guard UMCI using CHM – CVE-2017-8625. Retrieved October 3, 2018.](https://msitpros.com/?p=3909)
+5. [Microsoft. \(2017, August 8\). CVE-2017-8625 - Internet Explorer Security Feature Bypass Vulnerability. Retrieved October 3, 2018.](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2017-8625)
+6. [Doaty, J., Garrett, P.. \(2018, September 10\). We’re Seeing a Resurgence of the Demonic Astaroth WMIC Trojan. Retrieved April 17, 2019.](https://cofense.com/seeing-resurgence-demonic-astaroth-wmic-trojan/)
+7. [Blaich, A., et al. \(2018, January 18\). Dark Caracal: Cyber-espionage at a Global Scale. Retrieved April 11, 2018.](https://info.lookout.com/rs/051-ESQ-475/images/Lookout_Dark-Caracal_srr_20180118_us_v.1.0.pdf)
+8. [GReAT. \(2017, April 3\). Lazarus Under the Hood. Retrieved October 3, 2018.](https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2018/03/07180244/Lazarus_Under_The_Hood_PDF_final.pdf)
+9. [Falcone, R. and Lee, B.. \(2016, May 26\). The OilRig Campaign: Attacks on Saudi Arabian Organizations Deliver Helminth Backdoor. Retrieved May 3, 2017.](http://researchcenter.paloaltonetworks.com/2016/05/the-oilrig-campaign-attacks-on-saudi-arabian-organizations-deliver-helminth-backdoor/)
+10. [Skulkin, O.. \(2019, January 20\). Silence: Dissecting Malicious CHM Files and Performing Forensic Analysis. Retrieved May 24, 2019.](https://cyberforensicator.com/2019/01/20/silence-dissecting-malicious-chm-files-and-performing-forensic-analysis/)
+11. [GReAT. \(2017, November 1\). Silence – a new Trojan attacking financial organizations. Retrieved May 24, 2019.](https://securelist.com/the-silence/83009/)
 
 
 
