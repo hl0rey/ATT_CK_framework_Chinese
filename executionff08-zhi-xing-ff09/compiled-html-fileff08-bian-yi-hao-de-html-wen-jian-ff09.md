@@ -34,6 +34,7 @@
 2. [Microsoft. \(n.d.\). HTML Help ActiveX Control Overview. Retrieved October 3, 2018.](https://msdn.microsoft.com/windows/desktop/ms644670)
 
 3. [Microsoft. \(n.d.\). About the HTML Help Executable Program. Retrieved October 3, 2018.](https://msdn.microsoft.com/windows/desktop/ms524405)
+
 4. [Moe, O. \(2017, August 13\). Bypassing Device guard UMCI using CHM – CVE-2017-8625. Retrieved October 3, 2018.](https://msitpros.com/?p=3909)
 5. [Microsoft. \(2017, August 8\). CVE-2017-8625 - Internet Explorer Security Feature Bypass Vulnerability. Retrieved October 3, 2018.](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2017-8625)
 6. [Doaty, J., Garrett, P.. \(2018, September 10\). We’re Seeing a Resurgence of the Demonic Astaroth WMIC Trojan. Retrieved April 17, 2019.](https://cofense.com/seeing-resurgence-demonic-astaroth-wmic-trojan/)
