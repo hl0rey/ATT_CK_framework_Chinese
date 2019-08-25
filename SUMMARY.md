@@ -23,4 +23,5 @@
 * [AppleScript](executionff08-zhi-xing-ff09/applescript.md)
 * [CMSTP](executionff08-zhi-xing-ff09/cmstp.md)
 * [Command-Line Interface（命令行接口）](executionff08-zhi-xing-ff09/command-line-interfaceff08-ming-ling-xing-jie-kou-ff09.md)
+* [Compiled HTML File（编译好的HTML文件）](executionff08-zhi-xing-ff09/compiled-html-fileff08-bian-yi-hao-de-html-wen-jian-ff09.md)
 
