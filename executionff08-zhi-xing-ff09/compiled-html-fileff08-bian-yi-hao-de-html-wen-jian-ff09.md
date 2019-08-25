@@ -23,11 +23,16 @@
 
 ## 检测
 
+监控和分析hh.exe的执行以及其参数。对比最近对hh.exe正常调用的好的参数，以发现潜在的、可能的攻击活动（比如 混淆、恶意命令）。非标准的进程执行树也可能表示可以和恶意的行为。比如hh.exe是其他可疑进程和攻击技术相关进程的父进程。（比如cmstp.exe regsrv32）
+
+检测CHM文件的存在和使用，特别是通常不使用CHM文件的环境。
+
 ## 参考
 
 1. [Microsoft. \(2018, May 30\). Microsoft HTML Help 1.4. Retrieved October 3, 2018.](https://docs.microsoft.com/previous-versions/windows/desktop/htmlhelp/microsoft-html-help-1-4-sdk)
 
 2. [Microsoft. \(n.d.\). HTML Help ActiveX Control Overview. Retrieved October 3, 2018.](https://msdn.microsoft.com/windows/desktop/ms644670)
+
 3. [Microsoft. \(n.d.\). About the HTML Help Executable Program. Retrieved October 3, 2018.](https://msdn.microsoft.com/windows/desktop/ms524405)
 4. [Moe, O. \(2017, August 13\). Bypassing Device guard UMCI using CHM – CVE-2017-8625. Retrieved October 3, 2018.](https://msitpros.com/?p=3909)
 5. [Microsoft. \(2017, August 8\). CVE-2017-8625 - Internet Explorer Security Feature Bypass Vulnerability. Retrieved October 3, 2018.](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2017-8625)
