@@ -1,4 +1,4 @@
-# 供应链攻击
+# Supply Chain Compromise（供应链攻击）
 
 供应链攻击是为了攻击目标系统或获取数据而在最终客户收到产品之前对产品进行的操作。
 
@@ -39,7 +39,6 @@
 ## 参考
 
 1. [Avast Threat Intelligence Team. \(2018, March 8\). New investigations into the CCleaner incident point to a possible third stage that had keylogger capacities. Retrieved March 15, 2018.](https://blog.avast.com/new-investigations-in-ccleaner-incident-point-to-a-possible-third-stage-that-had-keylogger-capacities)
-
 2. [Windows Defender Research. \(2018, March 7\). Behavior monitoring combined with machine learning spoils a massive Dofoil coin mining campaign. Retrieved March 20, 2018.](https://cloudblogs.microsoft.com/microsoftsecure/2018/03/07/behavior-monitoring-combined-with-machine-learning-spoils-a-massive-dofoil-coin-mining-campaign/)
 3. [Command Five Pty Ltd. \(2011, September\). SK Hack by an Advanced Persistent Threat. Retrieved April 6, 2018.](https://www.commandfive.com/papers/C5_APT_SKHack.pdf)
 4. [O'Gorman, G., and McDonald, G.. \(2012, September 6\). The Elderwood Project. Retrieved February 15, 2018.](http://www.symantec.com/content/en/us/enterprise/media/security_response/whitepapers/the-elderwood-project.pdf)
@@ -49,6 +48,4 @@
 8. [Chiu, A. \(2016, June 27\). New Ransomware Variant "Nyetya" Compromises Systems Worldwide. Retrieved March 26, 2019.](https://blog.talosintelligence.com/2017/06/worldwide-ransomware-variant.html)
 9. [US-CERT. \(2017, July 1\). Alert \(TA17-181A\): Petya Ransomware. Retrieved March 15, 2019.](https://www.us-cert.gov/ncas/alerts/TA17-181A)
 10. [Maynor, D., Nikolic, A., Olney, M., and Younan, Y. \(2017, July 5\). The MeDoc Connection. Retrieved March 26, 2019.](https://blog.talosintelligence.com/2017/07/the-medoc-connection.html)
-
-
 

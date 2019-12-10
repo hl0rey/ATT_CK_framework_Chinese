@@ -1,4 +1,4 @@
-# 合法账户
+# Valid Accounts（合法账户）
 
 攻击者可以通过凭据窃取技术窃取特定用户或者服务的凭据，或者在社会工程学侦查过程早期获得有效的凭据，从而对目标进行初始访问。
 
@@ -110,6 +110,4 @@
 46. [Microsoft. \(2016, April 16\). Implementing Least-Privilege Administrative Models. Retrieved June 3, 2016.](https://technet.microsoft.com/en-us/library/dn487450.aspx)
 47. [Plett, C., Poggemeyer, L. \(12, October 26\). Securing Privileged Access Reference Material. Retrieved April 25, 2017.](https://docs.microsoft.com/en-us/windows-server/identity/securing-privileged-access/securing-privileged-access-reference-material#a-nameesaebmaesae-administrative-forest-design-approach)
 48. [Microsoft. \(2016, April 15\). Audit Policy Recommendations. Retrieved June 3, 2016.](https://technet.microsoft.com/en-us/library/dn487457.aspx)
-
-
 

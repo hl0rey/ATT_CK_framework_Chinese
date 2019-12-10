@@ -1,4 +1,4 @@
-# 对外开放的远程访问服务
+# External Remote Services（对外开放的远程访问服务）
 
 远程访问服务（例如VPN、Citrix或者其他访问机制）允许用户从外部访问企业内部网络资源。通常有远程服务网关管理这些连接和身份验证。像Windows Remote Managerment这样的服务也会被用于远程访问。
 
@@ -35,7 +35,6 @@
 ## 参考
 
 1. [Adair, S. \(2015, October 7\). Virtual Private Keylogging: Cisco Web VPNs Leveraged for Access and Persistence. Retrieved March 20, 2017.](https://www.volexity.com/blog/2015/10/07/virtual-private-keylogging-cisco-web-vpns-leveraged-for-access-and-persistence/)
-
 2. [Adair, S. \(2017, February 17\). Detecting and Responding to Advanced Threats within Exchange Environments. Retrieved March 20, 2017.](https://www.rsaconference.com/writable/presentations/file_upload/hta-f02-detecting-and-responding-to-advanced-threats-within-exchange-environments.pdf)
 3. [US-CERT. \(2018, March 16\). Alert \(TA18-074A\): Russian Government Cyber Activity Targeting Energy and Other Critical Infrastructure Sectors. Retrieved June 6, 2018.](https://www.us-cert.gov/ncas/alerts/TA18-074A)
 4. [US-CERT. \(2017, October 20\). Alert \(TA17-293A\): Advanced Persistent Threat Activity Targeting Energy and Other Critical Infrastructure Sectors. Retrieved November 2, 2017.](https://www.us-cert.gov/ncas/alerts/TA17-293A)
@@ -49,6 +48,4 @@
 12. [Cybereason Nocturnus. \(2019, June 25\). Operation Soft Cell: A Worldwide Campaign Against Telecommunications Providers. Retrieved July 18, 2019.](https://www.cybereason.com/blog/operation-soft-cell-a-worldwide-campaign-against-telecommunications-providers)
 13. [Miller, S, et al. \(2019, April 10\). TRITON Actor TTP Profile, Custom Attack Tools, Detections, and ATT&CK Mapping. Retrieved April 16, 2019.](https://www.fireeye.com/blog/threat-research/2019/04/triton-actor-ttp-profile-custom-attack-tools-detections.html)
 14. [Dell SecureWorks Counter Threat Unit Threat Intelligence. \(2015, August 5\). Threat Group-3390 Targets Organizations for Cyberespionage. Retrieved August 18, 2018.](https://www.secureworks.com/research/threat-group-3390-targets-organizations-for-cyberespionage)
-
-
 

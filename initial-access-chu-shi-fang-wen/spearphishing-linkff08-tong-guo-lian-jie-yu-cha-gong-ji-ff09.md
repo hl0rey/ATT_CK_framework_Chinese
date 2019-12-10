@@ -1,4 +1,4 @@
-# 通过链接鱼叉式攻击
+# Spearphishing Link（通过链接鱼叉式攻击）
 
 通过链接鱼叉式攻击是鱼叉式攻击的一种特殊手法。它不同于其他鱼叉式攻击，他将恶意软件包含在邮件内的链接中，而不是直接把恶意文件贴到附件中，这可以用来规避对附件的安全检测。
 
@@ -78,5 +78,3 @@
 33. [Schwarz, D. and Proofpoint Staff. \(2019, January 9\). ServHelper and FlawedGrace - New malware introduced by TA505. Retrieved May 28, 2019.](https://www.proofpoint.com/us/threat-insight/post/servhelper-and-flawedgrace-new-malware-introduced-ta505)
 34. [ESET, et al. \(2018, January\). Diplomats in Eastern Europe bitten by a Turla mosquito. Retrieved July 3, 2018.](https://www.welivesecurity.com/wp-content/uploads/2018/01/ESET_Turla_Mosquito.pdf)
 35. 
-
-

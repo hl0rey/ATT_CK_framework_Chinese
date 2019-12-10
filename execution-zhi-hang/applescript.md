@@ -25,9 +25,6 @@ macOS和OS X系统的程序互相通过发送AppleEvent消息的方式进行进�
 ## 参考
 
 1. [Yerko Grbic. \(2017, February 14\). Macro Malware Targets Macs. Retrieved July 8, 2017.](https://securingtomorrow.mcafee.com/mcafee-labs/macro-malware-targets-macs/)
-
 2. [Patrick Wardle. \(n.d.\). Mac Malware of 2017. Retrieved September 21, 2018.](https://objective-see.com/blog/blog_0x25.html)
 3. [Steven Sande. \(2013, December 23\). AppleScript and Automator gain new features in OS X Mavericks. Retrieved September 21, 2018.](https://www.engadget.com/2013/10/23/applescript-and-automator-gain-new-features-in-os-x-mavericks/)
-
-
 

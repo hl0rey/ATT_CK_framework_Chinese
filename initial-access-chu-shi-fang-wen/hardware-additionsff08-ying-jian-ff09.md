@@ -1,4 +1,4 @@
-# 硬件
+# Hardware Additions（硬件）
 
 计算机附件、计算或者网络设备可以作为攻击矢量接入目标来获得代码执行。虽然APT组织用得很少，但是很多渗透测试者使用硬件来获得目标的初始访问权限。利用商业的或者开源的产品可以实现被动网络监听、中间人流量解密、按键注入、通过DMA读取内核内存、向已有的网络中添加新的无线热点等等。
 
@@ -23,6 +23,4 @@
 4. [Ulf Frisk. \(2016, August 5\). Direct Memory Attack the Kernel. Retrieved March 30, 2018.](https://www.youtube.com/watch?v=fXthwl6ShOg)
 5. [Robert McMillan. \(2012, March 3\). The Pwn Plug is a little white box that can hack your network. Retrieved March 30, 2018.](https://arstechnica.com/information-technology/2012/03/the-pwn-plug-is-a-little-white-box-that-can-hack-your-network/)
 6. [Wikipedia. \(2018, March 30\). IEEE 802.1X. Retrieved April 11, 2018.](https://en.wikipedia.org/wiki/IEEE_802.1X)
-
-
 

@@ -1,4 +1,4 @@
-# 水坑攻击
+# Drive-by Compromise（水坑攻击）
 
 水坑攻击是指攻击者通过用户正常的访问网站的行为来获取目标权限的攻击手法。这种攻击以目标用户的浏览器为攻击或者说是漏洞利用的目标。
 
@@ -36,7 +36,7 @@
 | [Lazarus Group](https://attack.mitre.org/groups/G0032) | [Lazarus Group](https://attack.mitre.org/groups/G0032) delivered [RATANKBA](https://attack.mitre.org/software/S0241) to victims via a compromised legitimate website.[\[14\]](https://blog.trendmicro.com/trendlabs-security-intelligence/ratankba-watering-holes-against-enterprises/) |
 | [Leafminer](https://attack.mitre.org/groups/G0077) | [Leafminer](https://attack.mitre.org/groups/G0077) has infected victims using watering holes.[\[15\]](https://www.symantec.com/blogs/threat-intelligence/leafminer-espionage-middle-east) |
 | [Patchwork](https://attack.mitre.org/groups/G0040) | [Patchwork](https://attack.mitre.org/groups/G0040) has used watering holes to deliver files with exploits to initial victims.[\[16\]](http://www.symantec.com/connect/blogs/patchwork-cyberespionage-group-expands-targets-governments-wide-range-industries)[\[17\]](https://www.volexity.com/blog/2018/06/07/patchwork-apt-group-targets-us-think-tanks/) |
-| [PLATINUM](https://attack.mitre.org/groups/G0068) | [PLATINUM](https://attack.mitre.org/groups/G0068) has sometimes used drive-by attacks against vulnerable browser plugins.[\[18\]](https://download.microsoft.com/download/2/2/5/225BFE3E-E1DE-4F5B-A77B-71200928D209/Platinum feature article - Targeted attacks in South and Southeast Asia April 2016.pdf) |
+| [PLATINUM](https://attack.mitre.org/groups/G0068) | [PLATINUM](https://attack.mitre.org/groups/G0068) has sometimes used drive-by attacks against vulnerable browser plugins.[\[18\]](https://download.microsoft.com/download/2/2/5/225BFE3E-E1DE-4F5B-A77B-71200928D209/Platinum%20feature%20article%20-%20Targeted%20attacks%20in%20South%20and%20Southeast%20Asia%20April%202016.pdf) |
 | [POORAIM](https://attack.mitre.org/software/S0216) | [POORAIM](https://attack.mitre.org/software/S0216) has been delivered through compromised sites acting as watering holes.[\[5\]](https://www2.fireeye.com/rs/848-DID-242/images/rpt_APT37.pdf) |
 | [Threat Group-3390](https://attack.mitre.org/groups/G0027) | [Threat Group-3390](https://attack.mitre.org/groups/G0027) has extensively used strategic web compromises to target victims.[\[19\]](https://www.secureworks.com/research/threat-group-3390-targets-organizations-for-cyberespionage)[\[20\]](https://securelist.com/luckymouse-hits-national-data-center/86083/) |
 
@@ -67,13 +67,11 @@
 15. [Symantec Security Response. \(2018, July 25\). Leafminer: New Espionage Campaigns Targeting Middle Eastern Regions. Retrieved August 28, 2018.](https://www.symantec.com/blogs/threat-intelligence/leafminer-espionage-middle-east)
 16. [Hamada, J.. \(2016, July 25\). Patchwork cyberespionage group expands targets from governments to wide range of industries. Retrieved August 17, 2016.](http://www.symantec.com/connect/blogs/patchwork-cyberespionage-group-expands-targets-governments-wide-range-industries)
 17. [Meltzer, M, et al. \(2018, June 07\). Patchwork APT Group Targets US Think Tanks. Retrieved July 16, 2018.](https://www.volexity.com/blog/2018/06/07/patchwork-apt-group-targets-us-think-tanks/)
-18. [Windows Defender Advanced Threat Hunting Team. \(2016, April 29\). PLATINUM: Targeted attacks in South and Southeast Asia. Retrieved February 15, 2018.](https://download.microsoft.com/download/2/2/5/225BFE3E-E1DE-4F5B-A77B-71200928D209/Platinum feature article - Targeted attacks in South and Southeast Asia April 2016.pdf)
+18. [Windows Defender Advanced Threat Hunting Team. \(2016, April 29\). PLATINUM: Targeted attacks in South and Southeast Asia. Retrieved February 15, 2018.](https://download.microsoft.com/download/2/2/5/225BFE3E-E1DE-4F5B-A77B-71200928D209/Platinum%20feature%20article%20-%20Targeted%20attacks%20in%20South%20and%20Southeast%20Asia%20April%202016.pdf)
 19. [Dell SecureWorks Counter Threat Unit Threat Intelligence. \(2015, August 5\). Threat Group-3390 Targets Organizations for Cyberespionage. Retrieved August 18, 2018.](https://www.secureworks.com/research/threat-group-3390-targets-organizations-for-cyberespionage)
 20. [Legezo, D. \(2018, June 13\). LuckyMouse hits national data center to organize country-level waterholing campaign. Retrieved August 18, 2018.](https://securelist.com/luckymouse-hits-national-data-center/86083/)
 21. [Cowan, C. \(2017, March 23\). Strengthening the Microsoft Edge Sandbox. Retrieved March 12, 2018.](https://blogs.windows.com/msedgedev/2017/03/23/strengthening-microsoft-edge-sandbox/)
 22. [Goodin, D. \(2017, March 17\). Virtual machine escape fetches $105,000 at Pwn2Own hacking contest - updated. Retrieved March 12, 2018.](https://arstechnica.com/information-technology/2017/03/hack-that-escapes-vm-by-exploiting-edge-browser-fetches-105000-at-pwn2own/)
 23. [Nunez, N. \(2017, August 9\). Moving Beyond EMET II – Windows Defender Exploit Guard. Retrieved March 12, 2018.](https://blogs.technet.microsoft.com/srd/2017/08/09/moving-beyond-emet-ii-windows-defender-exploit-guard/)
 24. [Wikipedia. \(2018, January 11\). Control-flow integrity. Retrieved March 12, 2018.](https://en.wikipedia.org/wiki/Control-flow_integrity)
-
-
 
